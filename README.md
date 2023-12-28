@@ -46,8 +46,8 @@
    <h3>Frameworks</h3>
   <div>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/220px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/> </a>
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github.com/BorisPaunovic/BorisPaunovic/assets/119711363/0cacf384-fc6c-4ad5-a868-12d69568b0a9" alt="dotnet" width="40" height="40"/> </a>
-  </div>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github.com/BorisPaunovic/BorisPaunovic/assets/119711363/2ec25c92-0801-445f-bdee-ccc8cbbfa058" alt="dotnet" width="40" height="40"/> </a>
+  <div>
     
 </div>
 
