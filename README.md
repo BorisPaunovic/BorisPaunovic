@@ -46,7 +46,9 @@
    <h3>Frameworks</h3>
   <div>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/220px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/> </a>
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github.com/BorisPaunovic/BorisPaunovic/assets/119711363/2ec25c92-0801-445f-bdee-ccc8cbbfa058" alt="dotnet" width="40" height="40"/> </a>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github.com/BorisPaunovic/BorisPaunovic/assets/119711363/2ec25c92-0801-445f-bdee-ccc8cbbfa058" alt="asp" width="40" height="40"/> </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-8.0" target="_blank" rel="noreferrer"> <img src="https://github.com/BorisPaunovic/BorisPaunovic/assets/119711363/4822fcfb-1f21-422f-a52c-e7b5cc1a5aa7" alt="winform" width="40" height="40"/> </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   <div>
     
 </div>
