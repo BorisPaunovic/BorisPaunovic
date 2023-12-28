@@ -61,7 +61,7 @@
        <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/13432607/29981988-82cec158-8f58-11e7-9f26-473079c2a9b1.png" alt="trello" width="40" height="40"/> </a>
       <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaV3zW9PxfAiVweb7WUm5HJBBBakUV4uO5BT4fOOnviQ&s" alt="trello" width="40" height="40"/> </a>
      
-    </div>
+     
 </div>
 
 </div>
