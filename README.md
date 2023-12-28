@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **boris.paunovic2111@gmail.com**
 
-- 📄 My CV and certificates  [Boris Documents]([https://drive.google.com/file/d/1L4SiX4jri35RbRldhCuQD4xBDexsRPPX/view?usp=sharing](https://drive.google.com/drive/folders/1PBG-ULuEDeYaPDJFTd1Ml20LSE4RznAk?usp=sharing))
+- 📄 My CV and certificates  [My Documents]([https://drive.google.com/file/d/1L4SiX4jri35RbRldhCuQD4xBDexsRPPX/view?usp=sharing](https://drive.google.com/drive/folders/1PBG-ULuEDeYaPDJFTd1Ml20LSE4RznAk?usp=sharing))
 
 - ⚡ Fun fact **I love FOSS software**
 
