@@ -19,7 +19,7 @@ User
 
 - 📄 My CV and certificates  [My Documents](https://drive.google.com/drive/folders/1PBG-ULuEDeYaPDJFTd1Ml20LSE4RznAk?usp=sharing)
 
-- ⚡ Fun fact **I love FOSS software**
+- ⚡ Fun fact **I love [FOSS](https://github.com/BorisPaunovic/BorisPaunovic/edit/main/README.md) software**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
