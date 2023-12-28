@@ -43,7 +43,6 @@
         </a>
       </div>
     </section>
-
     <section>
       <h3>Databases</h3>
       <div class="icon-container">
@@ -58,7 +57,6 @@
         </a>
       </div>
     </section>
-
     <section>
       <h3>Frameworks</h3>
       <div class="icon-container">
@@ -76,7 +74,6 @@
         </a>
       </div>
     </section>
-
     <section>
       <h3>Version Control</h3>
       <div class="icon-container">
@@ -85,7 +82,6 @@
         </a>
       </div>
     </section>
-
     <section>
       <h3>Tools</h3>
       <div class="icon-container">
@@ -95,7 +91,7 @@
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/75px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" />
         </a>
-        <!-- Add other tool icons here -->
+        
       </div>
     </section>
   </div>
