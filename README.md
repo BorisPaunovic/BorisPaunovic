@@ -4,7 +4,7 @@
 
 I am a creative and driven full stack developer with a passion for building elegant software solutions. With a strong foundation in various programming languages and frameworks, I thrive on crafting high-quality web and mobile applications that deliver exceptional user experiences.
 
-> "The best way to predict the future is to create it." - Peter Drucker
+
 
 ## 🔭 Current Project (Not published on Github yet)
 
