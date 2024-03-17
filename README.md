@@ -32,8 +32,8 @@ I'm constantly expanding my knowledge and skills to stay up-to-date with the lat
 
 I'm always eager to collaborate on interesting projects, discuss potential opportunities, or simply connect with fellow developers. Feel free to reach out to me via any of the following channels:
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:boris.paunovic2111@gmail.com))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-paunovic-751198281))
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:boris.paunovic2111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-paunovic-751198281)
 
 
 ## 💻 Let's Get Coding!
