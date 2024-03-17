@@ -34,14 +34,11 @@ I'm always eager to collaborate on interesting projects, discuss potential oppor
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:boris.paunovic2111@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-paunovic-751198281)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
 
 ## 💻 Let's Get Coding!
 
-[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080ff?style=flat&logo=digitalocean&logoColor=white)](https://m.do.co/c/yourreferralcode)
-
-Want to see more of my work? Check out my [portfolio website](https://yourwebsite.com) for a comprehensive overview of my projects and experience. Let's connect and build something amazing together! ⚡️
-
+Want to see more of my work? Check out my [portfolio website]([https://yourwebsite.com](https://borispaunovic.github.io/PortfolioWebsite/#/) for a comprehensive overview of my projects and experience. Let's connect and build something amazing together! 
 
 ## 🛠️ Tools
 
