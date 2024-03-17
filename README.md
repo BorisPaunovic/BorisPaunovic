@@ -93,3 +93,12 @@ Want to see more of my work? Check out my [portfolio website]([https://yourwebsi
     </tr>
   </table>
 </div>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borispaunovic&show_icons=true&locale=en&layout=compact" alt="borispaunovic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borispaunovic&show_icons=true&locale=en" alt="borispaunovic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borispaunovic&" alt="borispaunovic" /></p>
+ 
