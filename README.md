@@ -23,10 +23,10 @@ Net Store is being built using modern technologies such as **ASP.NET Core MVC** 
 
 I'm constantly expanding my knowledge and skills to stay up-to-date with the latest trends and technologies. Currently, I'm diving deeper into:
 
-- [Godot Engine]([https://reactnative.dev/](https://godotengine.org/)): The Godot Engine is a free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games..
-- [Node Js]([https://graphql.org](https://nodejs.org/en)/): Node.js® is an open-source, cross-platform JavaScript runtime environment.
+- [Godot Engine](https://godotengine.org/): The Godot Engine is a free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games..
+- [Node Js](https://nodejs.org/en): Node.js® is an open-source, cross-platform JavaScript runtime environment.
 
-
+ [Godot Engine](https://godotengine.org/)
 
 ## 🌐 Let's Connect!
 
@@ -38,7 +38,7 @@ I'm always eager to collaborate on interesting projects, discuss potential oppor
 
 ## 💻 Let's Get Coding!
 
-Want to see more of my work? Check out my [portfolio website]([https://yourwebsite.com](https://borispaunovic.github.io/PortfolioWebsite/#/) for a comprehensive overview of my projects and experience. Let's connect and build something amazing together! 
+Want to see more of my work? Check out my [portfolio websit](https://borispaunovic.github.io/PortfolioWebsite/#/) for a comprehensive overview of my projects and experience. Let's connect and build something amazing together! 
 
 ## 🛠️ Tools
 
