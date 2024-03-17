@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=borispaunovic" alt="borispaunovic" /></a> </p>
 
-- 🔭 I’m currently working on [Knowledge Showdown](https://github.com/BorisPaunovic/Kowledge-Showdown-Web-App)
+- 🔭 I’m currently working on Net Store, a E-commerce internet store inspired by Amazon and Kupujem Prodajem.
 
 - 🌱 I’m currently learning **[Node.js](https://nodejs.org/en),[Godot](https://godotengine.org/),[GD Script](https://kidscancode.org/godot_recipes/3.x/)**
 
