@@ -6,44 +6,27 @@ I am a creative and driven full stack developer with a passion for building eleg
 
 > "The best way to predict the future is to create it." - Peter Drucker
 
-## 🔭 Current Project
+## 🔭 Current Project (Not published on Github yet)
 
 I'm currently working on **Net Store**, an E-commerce web application inspired by industry giants like Amazon and regional leaders like Kupujem Prodajem. The goal of this project is to create a seamless online shopping experience that empowers businesses and delights customers.
 
-Net Store is being built using modern technologies such as **React** for the front-end, **Node.js** and **Express.js** for the back-end, and **MongoDB** for the database. Some key features include:
+Net Store is being built using modern technologies such as **ASP.NET Core MVC** for the front-end, **ASP.NET Core Rest API** for the back-end, and **MariaDB** for the database. Some key features will include:
 
 - Intuitive product browsing and search functionality
 - Secure payment integration with popular payment gateways
 - Personalized recommendations based on user preferences
 - Responsive design for optimal viewing on various devices
 
-[![Net Store Screenshot](https://via.placeholder.com/600x400?text=Net+Store+Screenshot)](https://yourdemolink.com)
-
-*Check out the live demo [here](https://yourdemolink.com) or explore the [repository](https://github.com/BorisPaunovic/netstore) to learn more.*
+ 
 
 ## 🌱 Currently Learning
 
 I'm constantly expanding my knowledge and skills to stay up-to-date with the latest trends and technologies. Currently, I'm diving deeper into:
 
-- **[React Native](https://reactnative.dev/)**: Building cross-platform mobile applications with a focus on performance and user experience.
-- **[GraphQL](https://graphql.org/)**: Exploring the power of GraphQL for efficient data fetching and API development.
-- **[AWS Amplify](https://aws.amazon.com/amplify/)**: Leveraging AWS Amplify for serverless development, authentication, and hosting.
+- **[Godot Engine]([https://reactnative.dev/](https://godotengine.org/))**: The Godot Engine is a free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games..
+- **[Node Js]([https://graphql.org](https://nodejs.org/en)/)**: Node.js® is an open-source, cross-platform JavaScript runtime environment.
 
-Additionally, I'm exploring **[Godot](https://godotengine.org/)** and **[GDScript](https://kidscancode.org/godot_recipes/3.x/)** for game development on the side, as I'm passionate about creating interactive and immersive experiences.
 
-## 💻 Open Source Contributions
-
-I'm an active contributor to several open-source projects and believe in the power of collaborative development. Here are some of my notable contributions:
-
-- [Project Name](https://github.com/project/repo): Brief description of your contribution and its impact.
-- [Another Project](https://github.com/anotherproject/repo): Details about your involvement and the project's significance.
-
-Feel free to explore my [GitHub repositories](https://github.com/BorisPaunovic) to see my open-source work and contributions.
-
-## 🏆 Certifications and Achievements
-
-- [Certification Name](https://www.credential.com/verify/123456): Brief description of the certification and its relevance.
-- [Achievement or Award](https://www.awardsource.com/achievement): Details about the achievement, including the year and the awarding organization.
 
 ## 🌐 Let's Connect!
 
@@ -59,13 +42,6 @@ I'm always eager to collaborate on interesting projects, discuss potential oppor
 
 Want to see more of my work? Check out my [portfolio website](https://yourwebsite.com) for a comprehensive overview of my projects and experience. Let's connect and build something amazing together! ⚡️
 
-## 📄 My Documents
-
-Check out my [CV and certificates](https://drive.google.com/drive/folders/1PBG-ULuEDeYaPDJFTd1Ml20LSE4RznAk?usp=sharing) for more details about my qualifications and achievements.
-
-## ⚡ Fun Fact
-
-I love [FOSS](https://github.com/BorisPaunovic/BorisPaunovic/edit/main/README.md) software! Open-source projects have played a crucial role in my journey as a developer, and I'm passionate about contributing to and supporting the FOSS community.
 
 ## 🛠️ Tools
 
