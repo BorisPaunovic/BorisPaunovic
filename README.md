@@ -23,8 +23,8 @@ Net Store is being built using modern technologies such as **ASP.NET Core MVC** 
 
 I'm constantly expanding my knowledge and skills to stay up-to-date with the latest trends and technologies. Currently, I'm diving deeper into:
 
-- **[Godot Engine]([https://reactnative.dev/](https://godotengine.org/))**: The Godot Engine is a free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games..
-- **[Node Js]([https://graphql.org](https://nodejs.org/en)/)**: Node.js® is an open-source, cross-platform JavaScript runtime environment.
+- [Godot Engine]([https://reactnative.dev/](https://godotengine.org/)): The Godot Engine is a free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games..
+- [Node Js]([https://graphql.org](https://nodejs.org/en)/): Node.js® is an open-source, cross-platform JavaScript runtime environment.
 
 
 
@@ -32,8 +32,8 @@ I'm constantly expanding my knowledge and skills to stay up-to-date with the lat
 
 I'm always eager to collaborate on interesting projects, discuss potential opportunities, or simply connect with fellow developers. Feel free to reach out to me via any of the following channels:
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:boris.paunovic2111@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-paunovic-751198281)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:boris.paunovic2111@gmail.com))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-paunovic-751198281))
 
 
 ## 💻 Let's Get Coding!
