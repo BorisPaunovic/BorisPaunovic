@@ -1,7 +1,7 @@
 ![Banner](https://github.com/BorisPaunovic/BorisPaunovic/assets/119711363/586d2366-beb8-4af6-8931-1b42a4f8dbf2)
 
 # Hi there! 👋 I'm Boris - A Passionate Full Stack Developer
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borispaunovic&show_icons=true&locale=en&layout=compact" alt="borispaunovic" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=borispaunovic&label=Profile%20views&color=0e75b6&style=flat" alt="borispaunovic" /> </p>
 
 I am a creative and driven full stack developer with a passion for building elegant software solutions. With a strong foundation in various programming languages and frameworks, I thrive on crafting high-quality web and mobile applications that deliver exceptional user experiences.
 
